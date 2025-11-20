@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+torch
+torchvision
+numpy
+pydantic
+scikit-learn
+pytesseract
+pyzbar
+opencv-python-headless
+defusedxml
+sqlalchemy
+pandas
