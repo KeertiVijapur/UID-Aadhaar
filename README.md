@@ -28,6 +28,3 @@ This project uses **Machine Learning** and **Computer Vision** techniques to det
 | OCR | Tesseract OCR |
 | Backend (optional) | Flask / FastAPI |
 | Tools | NumPy, Pandas, Jupyter |
-
----
-
